@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Jobs>
+  <Job name="05 MTF Council" description="The leader on board the station. He is a member of 05 Council and make sure everything runs as planned. He leads the Security department and Research if a 05 Council Reseacher is absent."
+	   minnumber="1" maxnumber="1" minkarma="0.8" initialcount="1">
+    <Skills>
+      <Skill name="Weapons" level="50,95"/>
+      <Skill name="Construction" level="15,55"/>
+      <Skill name="Electrical Engineering" level="20,60"/>
+      <Skill name="Science" level="5,50"/>
+	  <Skill name="Medical" level="20,50"/>
+	  <Skill name="Cooking" level="20,50"/>
+    </Skills>
+    <Items>
+      <Item name="Level 5 Access Card" equip="true"/>
+	  <Item name="Nuke Authorisation Card" equip="false"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp D"/>
+		<Item name="Ration Stamp E"/>
+      </Item>
+	  <Item name="Clipboard">
+        <Item name="Top Secret Cover"/>
+		<Item name="Basic Emergency Protocol"/>
+		<Item name="Outbreak Protocol"/>
+      </Item> 
+      <Item name="05 Council MTF Cap" equip="true"/>
+      <Item name="05 Council MTF Outfit" equip="true"/>
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>
+	  <Item name="FK BRNO" equip="false">
+        <Item name="11mm Round"/>
+        <Item name="11mm Round"/>
+		<Item name="11mm Round"/>
+		<Item name="11mm Round"/>
+		<Item name="11mm Round"/>
+		<Item name="11mm Round"/>
+		<Item name="11mm Round"/>
+      </Item> 
+    </Items>
+  </Job>
+  
+  <Job name="05 Research Council" description="Member of the 05 Council tasked with overseeing the research operations in the facility. He and the 05 MTF Leader are equally ranked."
+	   maxnumber="1" minkarma="0.7">
+    <Skills>
+      <Skill name="Weapons" level="20,65"/>
+      <Skill name="Construction" level="10,45"/>
+      <Skill name="Electrical Engineering" level="10,40"/>
+      <Skill name="Science" level="70,95"/>
+	  <Skill name="Medical" level="50,95"/>
+	  <Skill name="Cooking" level="20,40"/>
+    </Skills>
+    <Items>
+      <Item name="Level 5 Access Card" equip="true"/>
+	  <Item name="Walther P38" equip="false">
+        <Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+      </Item> 
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp D"/>
+      </Item>
+	  <Item name="Clipboard">
+        <Item name="Top Secret Cover"/>
+		<Item name="Basic Emergency Protocol"/>
+		<Item name="Document about Prisoners"/>
+		<Item name="Classified Protocol A"/>
+		<Item name="Classified Protocol B"/>
+      </Item> 
+	  <Item name="05 Council Researcher Outfit" equip="true"/>
+	  <Item name="Flashlight">
+	    <Item name="Battery Cell"/>
+	  </Item> 
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item> 
+    </Items>
+  </Job>
+  
+  <Job name="Red-Right-Hand Agent" description="Unlike Security Guards, these people are required to only protect 05. They aren't required to be on the ship but are extremely useful when large amounts of D-Class are on board."
+	   maxnumber="1" minkarma="0.9">
+    <Skills>
+      <Skill name="Weapons" level="40,95"/>
+      <Skill name="Construction" level="5,50"/>
+      <Skill name="Electrical Engineering" level="5,40"/>
+	  <Skill name="Science" level="10,45"/>
+	  <Skill name="Medical" level="15,45"/>
+	  <Skill name="Cooking" level="15,35"/>
+    </Skills>
+    <Items>
+      <Item name="Level 4 Access Card" equip="true"/>
+	  <Item name="Armory Access Card" equip="false"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp E"/>
+      </Item>
+	  <Item name="AR-15" equip="true">
+        <Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+		<Item name="5.56 Round"/>
+      </Item> 
+	  <Item name="USP Elite" equip="false">
+        <Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+      </Item>
+	  <Item name="Clipboard">
+		<Item name="Basic Emergency Protocol"/>
+		<Item name="Document about Prisoners"/>
+      </Item> 
+      <Item name="MTF Helmet" equip="true"/>
+	  <Item name="MTF Outfit" equip="true"/>
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>      
+    </Items>
+  </Job>
+  
+  <Job name="Security Guard" description="Security guards for the facility that make sure nothing bad is happening. Should a conflict arrive guards will upon fire or run to the armory to call in MTF if the situation requires that."
+	   minnumber="1" maxnumber="3" minkarma="0.6">
+    <Skills>
+      <Skill name="Weapons" level="40,90"/>
+      <Skill name="Construction" level="5,40"/>
+      <Skill name="Electrical Engineering" level="5,25"/>
+	  <Skill name="Science" level="10,20"/>
+	  <Skill name="Medical" level="15,40"/>
+	  <Skill name="Cooking" level="15,30"/>
+    </Skills>
+    <Items>
+      <Item name="Level 3 Access Card" equip="true"/>
+	  <Item name="Armory Access Card" equip="false"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp E"/>
+      </Item>
+	  <Item name="MP5" equip="true">
+        <Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+      </Item> 
+	  <Item name="USP Elite" equip="false">
+        <Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+		<Item name="9mm Round"/>
+      </Item>
+	  <Item name="Clipboard">
+		<Item name="Basic Emergency Protocol"/>
+		<Item name="Document about Prisoners"/>
+      </Item> 
+	  <Item name="Stun Baton">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>
+      <Item name="SCP Security Helmet" equip="true"/>
+	  <Item name="SCP Security Outfit" equip="true"/>
+	  <Item name="Handcuffs"/>
+	  <Item name="Handcuffs"/>
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>      
+    </Items>
+  </Job>
+  
+  <Job name="Scientist" description="Scientists are the heart and core of the Foundation. They run numerous tests on SCPs usually using D-Class to gain knowledge on how the SCPs work."
+	   minnumber="1" maxnumber="3" minkarma="0.5">
+    <Skills>
+      <Skill name="Weapons" level="5,40"/>
+      <Skill name="Construction" level="10,40"/>
+      <Skill name="Electrical Engineering" level="15,55"/>
+      <Skill name="Science" level="45,85"/>
+	  <Skill name="Medical" level="15,60"/>
+	  <Skill name="Cooking" level="15,30"/>
+    </Skills>
+    <Items>
+      <Item name="Level 4 Access Card" equip="true"/>
+	  <Item name="Science Access Card" equip="false"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp D"/>
+		<Item name="Ration Stamp E"/>
+		<Item name="Ration Stamp E"/>
+      </Item>
+	  <Item name="Clipboard">
+        <Item name="Toр Sесrеt Covеr"/>
+		<Item name="Basic Emergency Protocol"/>
+      </Item> 
+      <Item name="Scientist's Uniform B" equip="true"/>
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>      
+    </Items>
+  </Job>
+
+  <Job name="Medical Doctor" description="The primary duty of the doctors is to help injured crew members, but their knowledge of chemistry and pharmaceutics can also be useful for creating various non-medicinal chemicals."
+	   maxnumber="1" minkarma="0.5">
+    <Skills>
+      <Skill name="Weapons" level="5,35"/>
+      <Skill name="Construction" level="5,30"/>
+      <Skill name="Electrical Engineering" level="5,25"/>
+	  <Skill name="Science" level="10,45"/>
+      <Skill name="Medical" level="60,95"/>
+	  <Skill name="Cooking" level="20,50"/>
+    </Skills>
+    <Items>
+      <Item name="Level 2 Access Card" equip="true"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp C"/>
+		<Item name="Ration Stamp D"/>
+      </Item>
+	  <Item name="Clipboard">
+		<Item name="Basic Emergency Protocol"/>
+      </Item> 
+      <Item name="Doctor Outfit" equip="true"/>
+      <Item name="Health Scanner HUD"/>
+	  <Item name="MedKit">
+        <Item name="Medical Syringe"/>
+      </Item>  
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>      
+    </Items>
+  </Job>
+
+  <Job name="Utility Overseer" description="Utility Overseers make sure that all the facilitys resources are function properly, such as Power, Oxygen, and Damage to the facility. Should any of these problems araise they will inform guards and other officials to dispatch D-Class to repair"
+	   minnumber="1" maxnumber="1" minkarma="0.3" initialcount="1">
+    <Skills>
+      <Skill name="Weapons" level="10,40"/>
+      <Skill name="Construction" level="50,95"/>
+      <Skill name="Electrical Engineering" level="40,80"/>
+	  <Skill name="Science" level="10,40"/>
+      <Skill name="Medical" level="10,20"/>
+	  <Skill name="Cooking" level="10,20"/>
+    </Skills>
+    <Items>
+      <Item name="Level 2 Access Card" equip="true"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+      </Item>
+	  <Item name="Clipboard">
+		<Item name="Basic Emergency Protocol"/>
+      </Item> 
+	  <Item name="Utility Overseer Outfit" equip="true"/>
+      <Item name="Wrench"/>
+	  <Item name="Screwdriver"/>
+      <Item name="Welding Tool">
+	    <Item name="Thermite Tank"/>
+	  </Item>
+      <Item name="Headset" equip="true">
+        <Item name="Fulgurium Battery Cell"/>
+      </Item>      
+    </Items>
+  </Job>
+  
+  <Job name="D-Class" description="D-Class are convicts or volunteers used as test subjects for the Foundation. They are taught to know that they are expandable and aren't important as an individual."
+	   minnumber="2" minkarma="0.1" allowalways="true">
+    <Skills>
+      <Skill name="Weapons" level="5,80"/>
+      <Skill name="Construction" level="5,80"/>
+      <Skill name="Electrical Engineering" level="5,80"/>
+	  <Skill name="Science" level="5,80"/>
+      <Skill name="Medical" level="5,80"/>
+	  <Skill name="Cooking" level="5,80"/>
+    </Skills>
+    <Items>
+      <Item name="Level D Access Card" equip="true"/>
+	  <Item name="Wallet">
+        <Item name="Ration Stamp A"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp B"/>
+		<Item name="Ration Stamp C"/>
+	  </Item>
+	  <Item name="Prisoner Jumpsuit A" equip="true">
+	    <Item name="Screwdriver Shiv"/>
+	  </Item>
+    </Items>
+  </Job>
+  
+</Jobs>

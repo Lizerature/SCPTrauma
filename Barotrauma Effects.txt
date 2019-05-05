@@ -1,0 +1,13 @@
+Always
+OnPicked
+OnUse
+OnSecondaryUse
+OnWearing
+OnContaining
+OnContained
+OnActive
+OnFailure
+OnBroken
+OnFire
+InWater
+OnImpact
